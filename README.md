@@ -7,7 +7,10 @@ This project analyzes global COVID-19 trends using data from **Our World in Data
 ## 📁 Dataset
 
 - **Source**: [Our World in Data - COVID-19](https://ourworldindata.org/covid-cases)
-- **File used**: `owid-covid-data.csv`
+
+- **Download file manually**: [owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-covid-data.csv)
+
+- **File name used**: owid-covid-data.csv
 
 ---
 
